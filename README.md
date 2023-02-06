@@ -1,2 +1,2 @@
 # Voron Mods 
-![Camera Views](camviews.png)
+![Camera Views](camview.jpg)
